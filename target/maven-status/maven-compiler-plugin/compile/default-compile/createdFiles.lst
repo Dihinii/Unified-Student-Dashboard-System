@@ -1,0 +1,16 @@
+com\dashboard\DemoApplication.class
+com\dashboard\model\Student.class
+com\dashboard\controller\TaskController.class
+com\dashboard\model\UrgencyProfile.class
+com\dashboard\service\TaskService.class
+com\dashboard\model\UrgencyScoreDashboard.class
+com\dashboard\model\Assignment.class
+com\dashboard\model\Clubs.class
+com\dashboard\repository\TaskRepository.class
+com\dashboard\service\UrgencyCalculatorImpl.class
+com\dashboard\repository\StudentRepository.class
+com\dashboard\model\Personal.class
+com\dashboard\controller\StudentController.class
+com\dashboard\service\UrgencyCalculator.class
+com\dashboard\model\Task.class
+com\dashboard\service\StudentService.class
